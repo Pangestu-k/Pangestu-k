@@ -1,6 +1,4 @@
-<p align="center">
-  <img width="460" height="300" src="[http://www.fillmurray.com/460/300](https://miro.medium.com/max/1400/1*yw0TnheAGN-LPneDaTlaxw.gif)">
-</p>
+[![MasterHead](https://miro.medium.com/max/1400/1*yw0TnheAGN-LPneDaTlaxw.gif)](https://rio)
 <h1 align="center">Hi 👋, I'm Muhammad Rizky Pangestu</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
