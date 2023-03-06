@@ -1,6 +1,6 @@
 [![MasterHead](https://miro.medium.com/max/1400/1*yw0TnheAGN-LPneDaTlaxw.gif)](https://rio)
 <h1 align="center">Hi 👋, I'm Muhammad Rizky Pangestu</h1>
-<h3 align="center">A passionate Software Engineer</h3>
+<h2 align="center">Software Engineer</h2>
 
 - 🌱 I’m currently learning **Golang, React JS, and Next JS**
 
