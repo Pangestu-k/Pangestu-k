@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Rizky Pangestu</h1>
 <h2 align="center">Software Engineer</h2>
 
-- 🌱 I’m currently learning **Golang, React JS, and Next JS**
+- 🌱 I’m currently learning **React JS, Typescript and Next JS**
 
-- 💬 Ask me about **Laravel, Golang, PHP**
+- 💬 Ask me about **Laravel, Golang, PHP, Javascript**
 
 - 📫 How to reach me **risky.mpangestu@gmail.com**
 
